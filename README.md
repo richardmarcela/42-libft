@@ -6,5 +6,5 @@ But first, how can I <b>install</b> and <b>run</b> this project?
 
 ### 1 - First things first, you need to clone this repository: 
 
-  git clone https://github.com/richardmarcela/Libft.git
+    git clone https://github.com/richardmarcela/Libft.git
   
