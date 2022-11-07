@@ -8,3 +8,13 @@ But first, how can I <b>install</b> and <b>run</b> this project?
 
     git clone https://github.com/richardmarcela/Libft.git
   
+### 2 - Go to libft <u>libft</u> and run <b>make</b>
+
+        cd Libft/libft
+        make
+        
+ ### 3 - Compile your main with the <u>libft.a</u>
+    
+        gcc -Wall -Wextra -Werror main.c libft.a
+        
+and that's basically it! :)
