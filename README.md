@@ -18,5 +18,7 @@ But first, how can I <b>install</b> and <b>run</b> this project?
  ### 3 - Compile your main with the <u>libft.a</u>
     
     gcc -Wall -Wextra -Werror main.c libft.a
+    
+    https://github.com/Tripouille/libftTester
         
 and that's basically it! :)
