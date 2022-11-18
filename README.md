@@ -15,10 +15,12 @@ But first, how can I <b>install</b> and <b>run</b> this project?
     cd Libft/libft
     make
         
- ### 3 - Compile your main with the <u>libft.a</u>
+### 3 - Compile your main with the <u>libft.a</u>
     
     gcc -Wall -Wextra -Werror main.c libft.a
     
-    https://github.com/Tripouille/libftTester
-        
+### Tip! You can use scripts such as:
+
+   <a href="https://github.com/Tripouille/libftTester" target="_blank">Tripouille/libftTester</a>
+
 and that's basically it! :)
