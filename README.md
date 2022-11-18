@@ -19,7 +19,7 @@ But first, how can I <b>install</b> and <b>run</b> this project?
     
     gcc -Wall -Wextra -Werror main.c libft.a
     
-### Tip! You can use scripts such as:
+### 💡 Tip! You can use scripts such as:
 
    <a href="https://github.com/Tripouille/libftTester" target="_blank">Tripouille/libftTester</a>
 
