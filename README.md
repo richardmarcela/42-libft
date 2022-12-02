@@ -10,7 +10,7 @@ But first, how can I <b>install</b> and <b>run</b> this project?
 
     git clone https://github.com/richardmarcela/Libft.git
   
-### 2 - Go to libft <u>libft</u> and run <b>make</b>
+### 2 - Go to Libft/libft and run <b>make</b>
 
     cd Libft/libft
     make
