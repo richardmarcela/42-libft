@@ -8,11 +8,11 @@ But first, how can I <b>install</b> and <b>run</b> this project?
 
 ### 1 - First things first, you need to clone this repository: 
 
-    git clone https://github.com/richardmarcela/Libft.git
+    git clone https://github.com/richardmarcela/42-libft.git
   
 ### 2 - Go to Libft/libft and run <b>make</b>
 
-    cd Libft/libft
+    cd 42-libft
     make
         
 ### 3 - Compile your main with the <u>libft.a</u>
